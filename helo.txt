@@ -1,3 +1,0 @@
-weimport scrapy
-sdsad
-
